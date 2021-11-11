@@ -1,2 +1,2 @@
-# semantix-covid
+# Semantix Covid
 Projeto Final Semantix Covid
